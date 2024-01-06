@@ -137,3 +137,6 @@ This is a very basic example to get you started. To see the logic behind these r
 ## Interesting Reads
 
 -   [Upload large files to S3 using Laravel 5](https://murze.be/2015/07/upload-large-files-to-s3-using-laravel-5/) by Freek Van der Herten.
+
+
+OR Using version ^2.0 for yaza/laravel-google-drive-storage
